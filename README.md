@@ -1,4 +1,3 @@
 # Senior-Design-Project-F-SAE
-
-. I solely designed the firewall of the car, using the thermal resistance network technique to choose the optimal material in terms of cost and weight that comply with the safety regulations. The primary design resulted in choosing the glass wool but further  accurate considerations were made which eventually resulted in choosing  E-fiber glass as the coating thermal resistance material for the firewall
+I solely designed the firewall of the car, using the thermal resistance network technique to choose the optimal material in terms of cost and weight that comply with the safety regulations. The primary design resulted in choosing the glass wool but further  accurate considerations( radiation ) were made which eventually resulted in choosing  E-fiber glass as the coating thermal resistance material for the firewall
  main
